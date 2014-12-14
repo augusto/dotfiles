@@ -1,0 +1,27 @@
+[user]
+name = Augusto Rodriguez
+email = augusto.rodriguez@gmail.com
+
+[alias]
+st = status
+co = checkout
+br = branch
+ca = commit -a
+ga = add .
+lg = log --graph
+undo = reset --hard
+
+[color]
+ui = true
+
+[core]
+editor = vim
+mergetool = vimdiff
+
+[github]
+user = augusto
+
+[merge]
+tool = vimdiff
+[push]
+	default = simple
