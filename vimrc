@@ -39,6 +39,10 @@ syntax on
 set background=dark
 colorscheme solarized
 
+" Molokai theme
+" let g:rehash256 = 1
+" colorscheme molokai
+
 
 " use block cursor
 if &term =~ '^xterm'
